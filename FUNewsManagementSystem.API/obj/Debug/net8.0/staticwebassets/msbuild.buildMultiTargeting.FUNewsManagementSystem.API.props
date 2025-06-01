@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FUNewsManagementSystem.API.props" />
+</Project>

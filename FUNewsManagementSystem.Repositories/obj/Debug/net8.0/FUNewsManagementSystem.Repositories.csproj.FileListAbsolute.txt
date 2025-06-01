@@ -1,0 +1,14 @@
+D:\dowload\SE_KI_8\PRN232\ASS01\VoTanTai_SE1728_A01_BE\FUNewsManagementSystem.Repositories\bin\Debug\net8.0\FUNewsManagementSystem.Repositories.deps.json
+D:\dowload\SE_KI_8\PRN232\ASS01\VoTanTai_SE1728_A01_BE\FUNewsManagementSystem.Repositories\bin\Debug\net8.0\FUNewsManagementSystem.Repositories.runtimeconfig.json
+D:\dowload\SE_KI_8\PRN232\ASS01\VoTanTai_SE1728_A01_BE\FUNewsManagementSystem.Repositories\bin\Debug\net8.0\FUNewsManagementSystem.Repositories.dll
+D:\dowload\SE_KI_8\PRN232\ASS01\VoTanTai_SE1728_A01_BE\FUNewsManagementSystem.Repositories\bin\Debug\net8.0\FUNewsManagementSystem.Repositories.pdb
+D:\dowload\SE_KI_8\PRN232\ASS01\VoTanTai_SE1728_A01_BE\FUNewsManagementSystem.Repositories\obj\Debug\net8.0\FUNewsManagementSystem.Repositories.csproj.AssemblyReference.cache
+D:\dowload\SE_KI_8\PRN232\ASS01\VoTanTai_SE1728_A01_BE\FUNewsManagementSystem.Repositories\obj\Debug\net8.0\FUNewsManagementSystem.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\dowload\SE_KI_8\PRN232\ASS01\VoTanTai_SE1728_A01_BE\FUNewsManagementSystem.Repositories\obj\Debug\net8.0\FUNewsManagementSystem.Repositories.AssemblyInfoInputs.cache
+D:\dowload\SE_KI_8\PRN232\ASS01\VoTanTai_SE1728_A01_BE\FUNewsManagementSystem.Repositories\obj\Debug\net8.0\FUNewsManagementSystem.Repositories.AssemblyInfo.cs
+D:\dowload\SE_KI_8\PRN232\ASS01\VoTanTai_SE1728_A01_BE\FUNewsManagementSystem.Repositories\obj\Debug\net8.0\FUNewsManagementSystem.Repositories.csproj.CoreCompileInputs.cache
+D:\dowload\SE_KI_8\PRN232\ASS01\VoTanTai_SE1728_A01_BE\FUNewsManagementSystem.Repositories\obj\Debug\net8.0\FUNewsManagementSystem.Repositories.dll
+D:\dowload\SE_KI_8\PRN232\ASS01\VoTanTai_SE1728_A01_BE\FUNewsManagementSystem.Repositories\obj\Debug\net8.0\refint\FUNewsManagementSystem.Repositories.dll
+D:\dowload\SE_KI_8\PRN232\ASS01\VoTanTai_SE1728_A01_BE\FUNewsManagementSystem.Repositories\obj\Debug\net8.0\FUNewsManagementSystem.Repositories.pdb
+D:\dowload\SE_KI_8\PRN232\ASS01\VoTanTai_SE1728_A01_BE\FUNewsManagementSystem.Repositories\obj\Debug\net8.0\FUNewsManagementSystem.Repositories.genruntimeconfig.cache
+D:\dowload\SE_KI_8\PRN232\ASS01\VoTanTai_SE1728_A01_BE\FUNewsManagementSystem.Repositories\obj\Debug\net8.0\ref\FUNewsManagementSystem.Repositories.dll
